@@ -1,3 +1,4 @@
+package src.edu.valeria.segundasemana;
 public class MinhClasse {
 
     public static void main(String[] args) {
